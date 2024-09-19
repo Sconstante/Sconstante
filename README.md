@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*OohqW5DGh9CQS4hLY5FXzA.png">
+  <img alt="Coding" src="https://media1.tenor.com/m/VjjwSvR2wKAAAAAC/helloworld-helloworld-print.gif">
 </div>
 
 <h1 align="center">Hola 👋, Yo soy Samuel Constante</h1>
