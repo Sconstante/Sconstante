@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samuconlo@gmail.com**
 
-- ⚡ Fun fact **Mi alter ego es futbolista**
+- ⚡ Fun fact **Mi alter ego es futbolista ⚽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
